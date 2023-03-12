@@ -15,6 +15,7 @@ public class Spieler {
     
     public void bewegen(){
         Map karte = new HashMap();
+        // Karteninformationen hinzufügen
         
     } 
 }
